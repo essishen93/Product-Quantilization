@@ -3,6 +3,8 @@ The implementation of the paper " Product quantization for nearest neighbor sear
 
 These codes are the modified version of codes from the following author:
 
+https://github.com/lostmarble/product-quantization)
+
 /**
  * @file config_file.h
  * @Synopsis   read configure file
